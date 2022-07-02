@@ -64,7 +64,6 @@ function searchByCriteria(criterios) {
   if (criterios.hasOwnProperty("no-format")) {
     todas = noFormat(todas);
   }
-  // console.log("Soy el console.log criterios... ", criterios.sort);
   return todas;
 }
 
