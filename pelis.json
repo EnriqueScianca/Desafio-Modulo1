@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Rapidos Y Furiosos 2",
+    "rating": 4.5,
+    "tags": ["Accion", "Crimen", "Suspenso"]
+  },
+
+  {
+    "title": "La leyenda del tesoro perdido",
+    "rating": 5.9,
+    "tags": ["Aventura", "Thriller"]
+  },
+  {
+    "title": "Bad Boys",
+    "rating": 3.9,
+    "tags": ["Accion", "Suspenso", "Policial"]
+  },
+  {
+    "title": "El Transportador",
+    "rating":5.3 ,
+    "tags": ["Accion", "Aventura", "Policial"]
+  },
+  {
+    "title": "Escuela De Rock",
+    "rating": 4.7,
+    "tags":["Musica", "Comedia", "Aventura"]
+  }
+]
